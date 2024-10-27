@@ -3,14 +3,14 @@
 </p>
 
 <center>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B%F0%9F%91%8B;I'm+Himavanth+Perni" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B%F0%9F%91%8B;++++I'm+Himavanth+Perni" alt="Typing SVG" /></a>
 </center>
 
 <h3 align="center">A passionate frontend developer with hands-on experience on both Azure and AWS.</h3>
 
 ---
 
-<div align="center">
+<div >
   - 🔭 I’m currently working on **Reliability Aware Caching**<br>
   - 🌱 I’m currently learning **Redis**<br>
   - 💬 Ask me about **React, Python, Java, Javascript**<br>
