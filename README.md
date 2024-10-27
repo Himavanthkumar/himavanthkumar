@@ -2,9 +2,9 @@
     <img src="https://komarev.com/ghpvc/?username=himavanthkumar&label=Profile%20views&color=0e75b6&style=flat" alt="himavanthkumar" /> 
 </p>
 
-<center>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B%F0%9F%91%8B;++++I'm+Himavanth+Perni" alt="Typing SVG" /></a>
-</center>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Himavanth+Perni!;" />
+</h1>
 
 <h3 align="center">A passionate frontend developer with hands-on experience on both Azure and AWS.</h3>
 
