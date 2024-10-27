@@ -39,15 +39,10 @@
 
 ---
 
-<h3 align="center">🎮 Try a Fun Game!</h3>
-<p align="center">
-    <a href="https://dino-chrome.com" target="_blank">
-        <img src="https://user-images.githubusercontent.com/67447840/142731791-9c6f42b8-b057-4b7a-9275-59c640f42f0e.png" width="200" alt="Dino Game">
-    </a>
-</p>
-<p align="center">
-    <em>Click the Dino to play a fun retro game in your browser!</em>
-</p>
+---
+
+<h3 align="center">🎮 Let's Play Tic-Tac-Toe!</h3>
+<p align="center">Take turns marking X and O on the board by editing the cells! Simply replace numbers with X or O. First to get three in a row wins!</p>
 
 ---
 
