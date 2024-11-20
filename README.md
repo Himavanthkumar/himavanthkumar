@@ -37,8 +37,8 @@
 <h3 align="center">🔧Languages and Tools</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mui,html,css,vscode,github,tailwind,git,postman" />
-    <img src="https://skillicons.dev/icons?i=kafka,redux,spring,aws,azure,c,cs,cpp,java,mysql,flask,fastapi,docker" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb," /><br>
+    <img src="https://skillicons.dev/icons?i=kafka,redux,spring,aws,azure,c,cs,cpp,java,mysql,flask" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,fastapi,docker" /><br>
 </div>
 
 
