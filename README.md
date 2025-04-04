@@ -44,9 +44,11 @@
 </div>
 
 
----
+
 
 ```
+---
+
 <h3 align="center">🐍 GitHub Contribution Snake Game</h3>
 <p align="center">
   <picture>
