@@ -8,12 +8,12 @@
 
 
 
-<h3 align="center">A passionate frontend developer with hands-on experience on both Azure and AWS.</h3>
+<h3 align="center">A passionate Full Stack Java Developer with 9+years of experience and hands-on experience on both Azure and AWS.</h3>
 <div >
-  - 🔭 I’m currently working on **Reliability Aware Caching**<br>
-  - 🌱 I’m currently learning **Redis**<br>
-  - 💬 Ask me about **React, Python, Java, Javascript**<br>
-  - 📫 How to reach me **himavanthking140@gmail.com**<br>
+  - 🔭 I’m currently working at **AWS**<br>
+  - 🌱 I’m currently learning **Spring AI**<br>
+  - 💬 Ask me about **React, Angular, Java, Javascript**<br>
+  - 📫 How to reach me **himavanth598@gmail.com**<br>
   - ⚡ Fun fact **Typing on a keyboard burns about 40-50 calories per hour, so typing all day won’t quite replace a workout!**
 </div>
 
@@ -21,15 +21,17 @@
 
 <h3 align="center">✨Connect with me</h3>
 <div align="center">
-    <a href="mailto:himavanthking140@gmail.com">
+    <a href="mailto:himavanth598@gmail.com">
         <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
     <a href="https://www.linkedin.com/in/himavanthkumar" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+   ``` 
     <a href="https://himavanth-kumar-perni-portfolio.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
+    ```
 </div>
 
 ---
@@ -37,13 +39,14 @@
 <h3 align="center">🔧Languages and Tools</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mui,html,css,vscode,github,tailwind,git,postman" />
-    <img src="https://skillicons.dev/icons?i=kafka,redux,spring,aws,azure,c,cs,cpp,java,mysql,flask" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,fastapi,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=kafka,angular,redux,spring,aws,azure,rabbitmq,java,mysql,elasticsearch,flask" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,jenkins,terraform,ansible,kubernetes,docker" /><br>
 </div>
 
 
 ---
 
+```
 <h3 align="center">🐍 GitHub Contribution Snake Game</h3>
 <p align="center">
   <picture>
@@ -52,6 +55,8 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Himavanthkumar/himavanthkumar/output/github-snake.svg" />
   </picture>
 </p>
+```
+
 
 
 ---
