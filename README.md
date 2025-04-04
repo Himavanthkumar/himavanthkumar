@@ -27,11 +27,7 @@
     <a href="https://www.linkedin.com/in/himavanthkumar" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-   ``` 
-    <a href="https://himavanth-kumar-perni-portfolio.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
-    ```
+
 </div>
 
 ---
@@ -46,18 +42,6 @@
 
 
 
-```
----
-
-<h3 align="center">🐍 GitHub Contribution Snake Game</h3>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Himavanthkumar/himavanthkumar/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Himavanthkumar/himavanthkumar/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Himavanthkumar/himavanthkumar/output/github-snake.svg" />
-  </picture>
-</p>
-```
 
 
 
