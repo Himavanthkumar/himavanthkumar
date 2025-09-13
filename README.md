@@ -8,12 +8,12 @@
 
 
 
-<h3 align="center">A passionate Full Stack Developer with hands-on experience on both Azure and AWS.</h3>
+<h3 align="center">A passionate Full Stack Developer with 3+ years hands-on experience on  Azure, AWS and GCP.</h3>
 <div >
   - 🔭 I’m currently working at **AWS**<br>
   - 🌱 I’m currently learning **Spring AI**<br>
   - 💬 Ask me about **React, Angular, Java, Javascript**<br>
-  - 📫 How to reach me **himavanth598@gmail.com**<br>
+  - 📫 How to reach me **himavanth60@gmail.com**<br>
   - ⚡ Fun fact **Typing on a keyboard burns about 40-50 calories per hour, so typing all day won’t quite replace a workout!**
 </div>
 
